@@ -1,7 +1,0 @@
-{
-  "name": "aurelia-progress",
-  "homepage": "https://github.com/heruan/aurelia-progress",
-  "version": "0.1.0",
-  "main": "dist/es2015/index.d.ts",
-  "dependencies": {}
-}
