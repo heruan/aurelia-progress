@@ -5,4 +5,3 @@ var ProgressIndicator = (function () {
     return ProgressIndicator;
 }());
 exports.ProgressIndicator = ProgressIndicator;
-//# sourceMappingURL=progress-indicator.js.map
